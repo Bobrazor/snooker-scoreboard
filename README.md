@@ -1,2 +1,0 @@
-# snooker-scoreboard
-snooker scoreboard
